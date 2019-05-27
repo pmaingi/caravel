@@ -22,7 +22,7 @@ setup(
         'flask-script>=2.0.5, <3.0.0',
         'flask-sqlalchemy==2.0.0',
         'flask-testing>=0.4.2, <0.5.0',
-        'flask>=0.10.1, <1.0.0',
+        'flask>=0.10.1,<2.0.0',
         'humanize>=0.5.1, <0.6.0',
         'gunicorn>=19.3.0, <20.0.0',
         'markdown>=2.6.2, <3.0.0',
