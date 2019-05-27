@@ -25,7 +25,7 @@ setup(
         'flask>=0.10.1, <1.0.0',
         'humanize>=0.5.1, <0.6.0',
         'gunicorn>=19.3.0, <20.0.0',
-        'markdown>=2.6.2, <3.0.0',
+        'markdown>=2.6.2,<4.0.0',
         'pandas==0.18.0',
         'parsedatetime==2.0.0',
         'pydruid>=0.2.2, <0.3',
