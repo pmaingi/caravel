@@ -18,7 +18,7 @@ setup(
         'cryptography>=1.1.1, <2.0.0',
         'flask-appbuilder>=1.6.0, <2.0.0',
         'flask-cache>=0.13.1, <0.14.0',
-        'flask-migrate>=1.5.1, <2.0.0',
+        'flask-migrate>=1.5.1,<3.0.0',
         'flask-script>=2.0.5, <3.0.0',
         'flask-sqlalchemy==2.0.0',
         'flask-testing>=0.4.2, <0.5.0',
