@@ -34,7 +34,7 @@ setup(
         'sqlalchemy>=1.0.12, <2.0.0',
         'sqlalchemy-utils>=0.31.3, <0.32.0',
         'sqlparse>=0.1.16, <0.2.0',
-        'werkzeug>=0.11.2, <0.12.0',
+        'werkzeug>=0.11.2,<0.16.0',
     ],
     tests_require=['coverage'],
     author='Maxime Beauchemin',
