@@ -27,7 +27,7 @@ setup(
         'gunicorn>=19.3.0, <20.0.0',
         'markdown>=2.6.2, <3.0.0',
         'pandas==0.18.0',
-        'parsedatetime==2.0.0',
+        'parsedatetime==2.4',
         'pydruid>=0.2.2, <0.3',
         'python-dateutil>=2.4.2, <3.0.0',
         'requests>=2.7.0, <3.0.0',
