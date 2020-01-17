@@ -11,7 +11,7 @@ asn1crypto==0.24.0        # via cryptography
 attrs==19.1.0             # via jsonschema
 babel==2.7.0              # via flask-babel
 backoff==1.8.0
-billiard==3.6.0.0         # via celery
+billiard==3.6.1.0         # via celery
 bleach==3.1.0
 celery==4.3.0
 cffi==1.12.3              # via cryptography
