@@ -53,7 +53,7 @@ marshmallow==2.19.5       # via flask-appbuilder, marshmallow-enum, marshmallow-
 msgpack==0.6.1
 numpy==1.17.0             # via pandas, pyarrow
 pandas==0.24.2
-parsedatetime==2.4
+parsedatetime==2.6
 pathlib2==2.3.4
 polyline==1.4.0
 prison==0.1.2             # via flask-appbuilder
